@@ -89,15 +89,15 @@ global.xckey = '7iyNa0qA'
 */
 
 /*Number*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = '𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
-global.nameown = '「 Oᴡɴᴇʀ 」'
+global.nomorbot = '6283842600695'
+global.nomorown = '081524346646'
+global.namebot = '𝙇𝙚𝙢𝙤𝙣 𝘽𝙤𝙩𝙯'
+global.nameown = '「 FIRDAUS 」'
 
 /*Watermark*/
-global.wm = '                「 𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯あ⁩ 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
+global.wm = '                「 𝙇𝙚𝙢𝙤𝙣 𝘽𝙤𝙩𝙯あ⁩ 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Firdaus˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝙇𝙚𝙢𝙤𝙣 𝘽𝙤𝙩𝙯'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -439,9 +439,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ 𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿 🇮🇩\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
-global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿 🇮🇩'
+global.stickauth = `☂︎𝙇𝙚𝙢𝙤𝙣 𝘽𝙤𝙩𝙯 乂 𝙁𝙄𝙍𝘿𝘼𝙐𝙎-𝙓𝘿 🇮🇩\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
+global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜰɪʀᴅᴀᴜꜱ'
+global.author = '𝙇𝙚𝙢𝙤𝙣 𝘽𝙤𝙩𝙯 乂 𝙁𝙄𝙍𝘿𝘼𝙐𝙎-𝙓𝘿 🇮🇩'
 global.multiplier = 10
 
 /*Pesan*/
@@ -454,16 +454,16 @@ global.gcwangsaf = 'https://chat.whatsapp.com/K6femuL8bLx6HqWS7wXofI'
 
 /*Donasi*/
 global.saweria = 'https://saweria.co/MaxxyBotz'
-global.dana = '085380166282'
-global.pulsa = '085295374964'
-global.trakteer = ''
-global.paypal = ''
-global.gopay = ''
-global.pdana = '085380166282'
-global.povo = ''
-global.pgopay = ''
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085380166282'
+global.dana = '081524346646'
+global.pulsa = '081524346646'
+global.trakteer = '081524346646'
+global.paypal = '081524346646'
+global.gopay = '081524346646'
+global.pdana = '081524346646'
+global.povo = '081524346646'
+global.pgopay = '081524346646'
+global.ppulsa = '081524346646'
+global.ppulsa2 = '081524346646'
 global.psaweria = 'https://saweria.com/MaxxyBotz'
 
 /*Emoji*/
